@@ -2,5 +2,5 @@
 	path = article-meli
 	url = https://github.com/siritfelix/article-meli.git
 [submodule "articleapi"]
-	path = articleapi
+	path = articles
 	url = https://github.com/siritfelix/articleapi.git
