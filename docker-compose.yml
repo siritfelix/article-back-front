@@ -12,7 +12,7 @@ services:
 
   frontend:
     build:
-      context: ./articles-meli
+      context: ./article-meli
       dockerfile: Dockerfile
     ports:
       - "4200:80"
